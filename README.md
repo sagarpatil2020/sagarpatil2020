@@ -1,11 +1,10 @@
-<div align="center">
 👋 Hi, I’m Sagar Patil
 
 Full-Stack Software Engineer
 
 I enjoy building clean, scalable applications and learning how real-world systems work end to end.
 
-</div>
+
 🧑‍💻 About Me
 
 Full-Stack Software Engineer with hands-on industry experience
