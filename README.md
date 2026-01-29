@@ -13,11 +13,11 @@ Prefer solving real problems rather than over-engineering solutions.
 
 Tech Stack
 Frontend
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" /> </p>
+<p align=""> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" /> </p>
 Backend
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi" /> </p>
+<p align=""> <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi" /> </p>
 Databases & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,aws,vercel" /> </p>
+<p align=""> <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,aws,vercel" /> </p>
 Projects
 
 Full-stack web applications with real users
