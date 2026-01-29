@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 Sagar Patil
 Full-Stack Software Engineer
 
