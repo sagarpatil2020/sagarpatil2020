@@ -35,7 +35,7 @@ Backend design and scalability
 Understanding production issues and real user behavior
 
 Contact
-<p align="center"> <a href="mailto:sagarpatil30720@gmail.com">sagarpatil30720@gmail.com</a> • <a href="https://www.linkedin.com/in/sagar-patil-119180220/">LinkedIn</a> • <a href="https://github.com/sagarpatil2020">GitHub</a> </p>
+<p align=""> <a href="mailto:sagarpatil30720@gmail.com">sagarpatil30720@gmail.com</a> • <a href="https://www.linkedin.com/in/sagar-patil-119180220/">LinkedIn</a> • <a href="https://github.com/sagarpatil2020">GitHub</a> </p>
 
 Open to learning, collaboration, and new opportunities.
 
