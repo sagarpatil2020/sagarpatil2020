@@ -1,55 +1,51 @@
+<div align="center">
 👋 Hi, I’m Sagar Patil
 
-I’m a Full-Stack Software Engineer who enjoys building clean, reliable, and user-friendly applications. I like working on real-world problems, learning from experienced engineers, and continuously improving my skills.
+Full-Stack Software Engineer | Problem Solver | Continuous Learner
 
-💻 What I Do
+I enjoy building clean, scalable applications and learning how real-world systems work end to end.
 
-Build end-to-end web applications
+</div>
+🧑‍💻 About Me
 
-Work on both frontend and backend features
+Full-Stack Software Engineer with hands-on industry experience
 
-Collaborate with teams and follow proper SDLC practices
+Comfortable working across frontend, backend, and deployments
 
-Focus on writing clean, maintainable code
+Strong believer in clean code, teamwork, and steady improvement
+
+Enjoy solving real problems rather than over-engineering solutions
 
 🛠️ Tech Stack
-
-Frontend:
-HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js
-
-Backend:
-Node.js, Python, FastAPI, REST APIs
-
-Databases:
-MongoDB, SQL
-
-Cloud & Tools:
-AWS, Docker, Git, GitHub, Vercel
-
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" /> </p>
+Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi" /> </p>
+Databases & Tools
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,aws,vercel" /> </p>
 🚀 Projects
 
-I’ve worked on multiple projects including:
+Some of the things I’ve worked on:
 
-Full-stack web applications
+Full-stack web applications with real users
 
-AI-powered platforms
+AI-powered platforms and dashboards
 
-Dashboard and data-driven applications
+API-driven systems and data-focused applications
 
-🌱 Currently Learning
+👉 Check out my repositories below to see real code and projects.
 
-Improving system design basics
+🌱 Currently Improving
 
-Writing better, scalable backend code
+Backend design and scalability
 
-Exploring AI-driven applications
+Writing cleaner, more maintainable code
 
+Understanding production issues and real user behavior
+
+📊 GitHub Stats
+<p> <img src="https://github-readme-stats.vercel.app/api?username=sagarpatil2020&show_icons=true&theme=default" /> </p> <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpatil2020&layout=compact" /> </p>
 📫 Connect With Me
+<p> <a href="https://www.linkedin.com/in/sagar-patil-119180220/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /> </a> <a href="mailto:sagarpatil30720@gmail.com"> <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /> </a> <a href="https://github.com/sagarpatil2020"> <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /> </a> </p>
 
-LinkedIn: https://www.linkedin.com/in/sagar-patil-119180220/
-
-GitHub: https://github.com/sagarpatil2020
-
-Email: sagarpatil30720@gmail.com
-
-⭐ Always open to learning, collaboration, and new opportunities.
+⭐ Open to learning, collaboration, and new opportunities.
