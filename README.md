@@ -1,42 +1,72 @@
-<div>
-Sagar Patil
-Full-Stack Software Engineer
+<div align="center">
 
+<h1>Sagar Patil</h1>
+<h3>Full-Stack Software Engineer</h3>
+
+<p>
 I enjoy building clean, scalable applications and learning how real-world systems work end to end.
+</p>
 
-About Me
+<hr/>
 
-Full-Stack Software Engineer with hands-on industry experience.
+<h2>About Me</h2>
 
-Comfortable working across frontend, backend, and deployments.
+<p>
+I am a Full-Stack Software Engineer with hands-on industry experience, comfortable working across frontend, backend, and deployments.
+I focus on writing clean code, collaborating effectively with teams, and improving steadily over time.
+I prefer solving real problems in a simple and practical way rather than over-engineering solutions.
+</p>
 
-Focused on clean code, teamwork, and steady improvement.
+<hr/>
 
-Prefer solving real problems rather than over-engineering solutions.
+<h2>Tech Stack</h2>
 
-Frontend
-<p align=""> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" /> </p>
-Backend
-<p align=""> <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi" /> </p>
-Databases & Tools
-<p align=""> <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,aws,vercel" /> </p>
-Projects
+<h3>Frontend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
-Full-stack web applications with real users
+<h3>Backend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi" />
+</p>
 
-AI-powered platforms and dashboards
+<h3>Databases & Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,aws,vercel" />
+</p>
 
-API-driven systems and data-focused applications
+<hr/>
 
+<h2>Projects</h2>
 
-Currently Improving
+<ul style="list-style: none; padding: 0;">
+  <li>Full-stack web applications with real users</li>
+  <li>AI-powered platforms and dashboards</li>
+  <li>API-driven systems and data-focused applications</li>
+</ul>
 
-Backend design and scalability
-Understanding production issues and real user behavior
+<hr/>
 
-Contact
-<p align=""> <a href="mailto:sagarpatil30720@gmail.com">sagarpatil30720@gmail.com</a> • <a href="https://www.linkedin.com/in/sagar-patil-119180220/">LinkedIn</a> • <a href="https://github.com/sagarpatil2020">GitHub</a> </p>
+<h2>Currently Improving</h2>
 
+<ul style="list-style: none; padding: 0;">
+  <li>Backend design and scalability</li>
+  <li>Understanding production issues and real user behavior</li>
+</ul>
+
+<hr/>
+
+<h2>Contact</h2>
+
+<p>
+  <a href="mailto:sagarpatil30720@gmail.com">sagarpatil30720@gmail.com</a> •
+  <a href="https://www.linkedin.com/in/sagar-patil-119180220/">LinkedIn</a> •
+  <a href="https://github.com/sagarpatil2020">GitHub</a>
+</p>
+
+<p>
 Open to learning, collaboration, and new opportunities.
+</p>
 
 </div>
