@@ -7,8 +7,11 @@ I enjoy building clean, scalable applications and learning how real-world system
 About Me
 
 Full-Stack Software Engineer with hands-on industry experience.
+
 Comfortable working across frontend, backend, and deployments.
+
 Focused on clean code, teamwork, and steady improvement.
+
 Prefer solving real problems rather than over-engineering solutions.
 
 Frontend
@@ -24,6 +27,7 @@ Full-stack web applications with real users
 AI-powered platforms and dashboards
 
 API-driven systems and data-focused applications
+
 
 Currently Improving
 
