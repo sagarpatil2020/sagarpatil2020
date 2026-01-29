@@ -23,12 +23,12 @@ I focus on writing clean, maintainable code, collaborating effectively with team
 <strong>Frontend</strong><br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
-<br/><br/>
+<br/>
 
 <strong>Backend</strong><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi" />
 
-<br/><br/>
+<br/>
 
 <strong>Databases & Tools</strong><br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,aws,vercel" />
@@ -48,7 +48,7 @@ I focus on writing clean, maintainable code, collaborating effectively with team
 <h2>Currently Improving</h2>
 
 <ul>
-  <li>Backend design and scalability</li>
+  <li>System design and scalability</li>
   <li>Understanding production issues and real user behavior</li>
 </ul>
 
