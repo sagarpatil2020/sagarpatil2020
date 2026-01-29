@@ -11,7 +11,6 @@ Comfortable working across frontend, backend, and deployments.
 Focused on clean code, teamwork, and steady improvement.
 Prefer solving real problems rather than over-engineering solutions.
 
-Tech Stack
 Frontend
 <p align=""> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" /> </p>
 Backend
@@ -21,7 +20,9 @@ Databases & Tools
 Projects
 
 Full-stack web applications with real users
+
 AI-powered platforms and dashboards
+
 API-driven systems and data-focused applications
 
 Currently Improving
