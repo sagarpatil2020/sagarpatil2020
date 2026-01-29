@@ -1,7 +1,7 @@
 <div align="center">
 👋 Hi, I’m Sagar Patil
 
-Full-Stack Software Engineer | Problem Solver | Continuous Learner
+Full-Stack Software Engineer
 
 I enjoy building clean, scalable applications and learning how real-world systems work end to end.
 
@@ -39,13 +39,6 @@ API-driven systems and data-focused applications
 
 Backend design and scalability
 
-Writing cleaner, more maintainable code
-
 Understanding production issues and real user behavior
-
-📊 GitHub Stats
-<p> <img src="https://github-readme-stats.vercel.app/api?username=sagarpatil2020&show_icons=true&theme=default" /> </p> <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpatil2020&layout=compact" /> </p>
-📫 Connect With Me
-<p> <a href="https://www.linkedin.com/in/sagar-patil-119180220/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /> </a> <a href="mailto:sagarpatil30720@gmail.com"> <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /> </a> <a href="https://github.com/sagarpatil2020"> <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /> </a> </p>
 
 ⭐ Open to learning, collaboration, and new opportunities.
