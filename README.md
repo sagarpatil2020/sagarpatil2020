@@ -40,16 +40,16 @@ I prefer solving real problems in a simple and practical way rather than over-en
 
 <h2>Projects</h2>
 
-  <li>Full-stack web applications with real users</li>
-  <li>AI-powered platforms and dashboards</li>
-  <li>API-driven systems and data-focused applications</li>
+  <>Full-stack web applications with real users</>
+  <>AI-powered platforms and dashboards</>
+  <>API-driven systems and data-focused applications</>
 
 <hr/>
 
 <h2>Currently Improving</h2>
 
-  <li>Backend design and scalability</li>
-  <li>Understanding production issues and real user behavior</li>
+  <>Backend design and scalability</>
+  <>Understanding production issues and real user behavior</>
 
 <hr/>
 
